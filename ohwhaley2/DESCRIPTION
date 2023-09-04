@@ -1,0 +1,13 @@
+Package: ohwhaley2
+Title: Whale Puns
+Version: 0.0.0.9000
+Authors@R: 
+    person("Oscar", "Brown", , "oscar.brown@students.mq.edu.au", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Creates an image of a whale which will be saying a whale-related pun.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    magrittr
